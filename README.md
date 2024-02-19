@@ -17,6 +17,9 @@ Rating Distribution: Visualizing the distribution of content ratings to gauge us
 Duration Analysis: Examining the distribution of content durations (e.g., runtime of movies, number of seasons for TV shows) to understand user preferences for content length and binge-watching habits.
 
 Genre Preferences: Delving into the diversity of genres available on Netflix and identifying the most popular genres among users, aiding in content recommendation algorithms and strategic content acquisition decisions.
+# Analysis Technique:
+
+Data Visualization: Leverage Tableau's visualization capabilities to create dynamic charts, graphs, and dashboards that offer insights into content distribution, trends, and user preferences across various dimensions such as genre, country, and type (movies vs. TV shows).
 
 # Conclution
 
